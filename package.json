@@ -1,0 +1,20 @@
+{
+  "name": "bnutils",
+  "version": "1.0.15",
+  "author": "banno <bngrid@outlook.com> (https://bngrid.com)",
+  "description": "an elegant javascript util lib",
+  "keywords": [
+    "bngrid",
+    "util",
+    "lib"
+  ],
+  "main": "dist/index.js",
+  "license": "MIT",
+  "type": "module",
+  "files": [
+    "dist"
+  ],
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
